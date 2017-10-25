@@ -1,6 +1,7 @@
-# goku.framework.vue.mutilplepages
+# Goku.Framework.Vue.MutilplePages
 
-> A Vue.js project
+
+> vue 多页面应用
 
 ## Build Setup
 
