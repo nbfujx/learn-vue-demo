@@ -1,5 +1,5 @@
 <template>
-  <div id="index">
+  <div id="app">
     <img src="../../assets/logo.png">
   </div>
 </template>
@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style>
-#index {
+#app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
